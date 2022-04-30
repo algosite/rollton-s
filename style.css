@@ -1,0 +1,42 @@
+
+header{
+	color: white;
+	background-color:black;
+	margin:20px;
+	padding:10px;
+
+}
+
+body{
+	background-color: yellow;
+	color: white;
+}
+
+p{
+	color:black;
+	text-align:
+    center font-size:25px;
+}
+
+h1{
+	text-align: center;
+	color:black ;
+    font-size: 50px 
+}
+
+
+}
+.imgDown{
+	width:700px ;
+	margin-left:22% ; 
+}
+nav a{
+	margin:20px;
+	font-size:20px;
+	text-decoration:none;
+	color:lightblue;
+	border:3px solid navy;
+	border-radius:10px;
+	background-color:navy;
+	padding:1px;
+}
