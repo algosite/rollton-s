@@ -2,9 +2,6 @@
 header{
 	color: white;
 	background-color:black;
-	margin:20px;
-	padding:10px;
-
 }
 
 body{
@@ -25,7 +22,6 @@ h1{
 }
 
 
-}
 .imgDown{
 	width:700px ;
 	margin-left:22% ; 
@@ -45,4 +41,17 @@ h2{
 }
 ul{
 	color: black;
+}
+nav {
+	display: flex;
+	justify-content: center;
+}
+
+nav img {
+	width: 40px;
+	height: 40px;
+	margin-top: 15px;
+}
+.ee {
+	width: 250px;
 }
